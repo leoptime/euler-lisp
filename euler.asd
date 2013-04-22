@@ -20,6 +20,7 @@
      (:file "problem1" :depends-on ("packages"))
      (:file "problem2" :depends-on ("packages"))
      (:file "problem3" :depends-on ("packages" "util"))
+     (:file "problem8" :depends-on ("packages" "util"))
      (:file "test" :depends-on ("packages" 
                                 "problem1" 
                                 "problem2"
