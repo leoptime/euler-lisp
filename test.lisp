@@ -1,6 +1,6 @@
 ;;
 
-(in-package #:project-euler)
+(in-package #:euler)
 
 (defun run ()
   (format t "1.    the sum of all the multiples of 3 or 5 below 1000 is : ~s~%" (problem1 999 3 5))

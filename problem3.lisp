@@ -2,7 +2,7 @@
 
 ;;What is the largest prime factor of the number 600851475143 ?
 
-(in-package #:project-euler)
+(in-package #:euler)
 
 (defun problem3 (number)
   (reset-prime-list)

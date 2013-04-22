@@ -4,7 +4,7 @@
 
 ;By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-(in-package #:project-euler)
+(in-package #:euler)
 
 (defun problem2 (odd even limit result)
   (if (< even limit)

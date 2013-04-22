@@ -1,6 +1,6 @@
 ;;common util functions
 
-(in-package #:project-euler)
+(in-package #:euler)
 
 (let ((prime-list nil))
   (defun reset-prime-list ()
