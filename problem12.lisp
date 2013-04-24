@@ -16,4 +16,7 @@
 ;analysis : the nth triangle can be written as : n * (n + 1) / 2;
 
 
-(in-package #:project-euler)
+(in-package #:euler)
+
+(defun problem12 ()
+)
